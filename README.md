@@ -25,7 +25,7 @@ Most backend tutorials start with a framework's opinions before the fundamentals
 
 ## Demo
 
-![API docs screenshot](screenshots/docs-ui.png)
+![API docs screenshot](docs-ui.png)
 *FastAPI's auto-generated `/docs` page, used to test both endpoints without leaving the browser.*
 
 ## Installation
