@@ -89,7 +89,8 @@ content-type: application/json
 
 ### Swagger UI
 
-*[Screenshot placeholder: `/docs` page showing all endpoints, with a "Try it out" response for one of them]*
+![API docs screenshot](docs-ui.png)
+*FastAPI's auto-generated `/docs` page, used to test the endpoints without leaving the browser.*
 
 ## Project Structure
 
